@@ -1,0 +1,17 @@
+﻿@charset 'utf-8';
+@import "../../../node_modules/purecss/build/pure-min.css";
+@import "../../../node_modules/purecss/build/grids-responsive-min.css";
+
+//variables
+@import "./basics/variables";
+
+//abstracts
+@import "./basics/abstracts/mixins";
+
+//basics
+@import "./basics/typography";
+@import "./basics/general";
+@import "./basics/container";
+
+//components
+/*Insert the imports of components here*/
